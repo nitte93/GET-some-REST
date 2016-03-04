@@ -5,3 +5,4 @@ Implement a search box where a `search` term can be entered.
 - Author
 - Description
 
+See this on plnkr: https://plnkr.co/edit/K4f7CVIeurAUMRzQYMb0?p=preview
