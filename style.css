@@ -1,0 +1,52 @@
+/* Styles go here */
+
+body {
+  padding-top: 50px;
+}
+
+h2 {
+  font: 300 33px/40px 'Open Sans', sans-serif;
+  color: #cfd8ee;
+  margin: 0 0 23px;
+}
+p {
+  font: 13px/20px 'Open Sans', sans-serif;
+}
+
+hr {
+    background-color: #51596d;
+    border: none;
+    height: 1px;
+    margin: 0 0 21px;
+}
+
+.result {
+  padding: 50px 50px 50px 10px;
+  color: #8391ab;
+  width: 500px;
+  background-color: #14163D;
+  margin: 0px auto;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  /* box-shadow */
+}
+.searchResult{
+  width: 400px;
+  margin: 10px auto;
+  font: 300 33px/40px 'Open Sans', sans-serif;
+  color: #14163D;
+}
+.bookInfo span{
+  color:#FFF;
+}
+.email {
+  color: #ffffff;
+  margin-left: 5px;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.email:hover {
+  color: #cfd8ee;
+  text-decoration: none;
+}
